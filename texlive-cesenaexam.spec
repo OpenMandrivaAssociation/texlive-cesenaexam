@@ -1,6 +1,6 @@
 Name:		texlive-cesenaexam
 Version:	44960
-Release:	1
+Release:	2
 Summary:	A class file to typeset exams
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/cesenaexam

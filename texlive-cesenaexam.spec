@@ -3,7 +3,7 @@ Version:	44960
 Release:	2
 Summary:	A class file to typeset exams
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/cesenaexam
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/cesenaexam
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/cesenaexam.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/cesenaexam.doc.r%{version}.tar.xz
